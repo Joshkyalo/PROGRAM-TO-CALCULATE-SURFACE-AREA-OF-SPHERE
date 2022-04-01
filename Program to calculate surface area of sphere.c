@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* PROGRAM TO CALCULATE SURFACE AREA OF SPHERE*/
+/* PROGRAM TO CALCULATE SURFACE AREA OF SPHERE created by joshua*/
 
 int main(int argc, char *argv[])
  { 
