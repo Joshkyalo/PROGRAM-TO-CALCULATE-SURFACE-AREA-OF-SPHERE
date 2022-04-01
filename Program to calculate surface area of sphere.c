@@ -3,7 +3,7 @@
 
 /* PROGRAM TO CALCULATE SURFACE AREA OF SPHERE created by joshua*/
 
-int main(int argc, char *argv[])
+int main()
  { 
 
 float radius;
@@ -15,3 +15,21 @@ printf("surface area of sphere is :%.3f",surface_area);
 return 0;
 }
 
+
+2
+we can also find  using this method  when given radius of sphere
+#include<stdio.h>
+
+
+int main()
+{
+int radius=37;
+double pie=3.14;
+double area_sphere=4*pie*(radius*radius);
+printf("surface area of the sphere=%f" ,area_sphere);
+
+	
+	
+	
+	return 0;
+	}
